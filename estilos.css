@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    color: black;
+    background-color: yellow;
+    padding: 2%;
+}
+
+nav{
+    background-color: yellow;
+    color: black;
+    padding: 1%;
+}
+
+img.mediana{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+footer {
+    text-align: center;
+    color: black;
+    background-color: yellow;
+    padding: 2%;
+}
